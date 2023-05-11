@@ -42,7 +42,7 @@ function detectPersonalLevel() {
     } else if (personalMovieDB.count >= 30) {
         console.log('wow!')
     } else {
-        console.log('Что тут происходит?')
+        console.log('Что тут происходит??')
     }
 }
 
